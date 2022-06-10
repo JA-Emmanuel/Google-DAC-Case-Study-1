@@ -178,9 +178,9 @@ As earlier seen, although the casual dominates number of rides only over the wee
 
 ### Recommendations 
 
-A digital ad named "Passion Into Membership" should be launched where we convinve the casual riders to switch to membership. How do we do this? For the members its just a routine but for casaul it's something they are passionate about and hence we puy out and ad that speaks of their passion and makes them easily relate to 
+A digital ad named "Passion Into Membership" should be launched where we convince the casual riders to switch to membership. How do we do this? For the members, its just a routine but for casaul it's something they are passionate about and hence we put out and ad that speaks of their passion, something they can relate to.  
 
-We know of the decreasing number of rides during the winter, spring and autumn therefore we should provide for them a discount for their membership conversion, this shows how much we care and how much we know of their obsatcles in the form of weather.
+We know of the decreasing number of rides during the winter, spring and autumn therefore we should provide for them a discount for their membership conversion, this shows how much we care and how much we know of the obsatcles they face in the form of weather.
 
-Still on luring them, we can organise bicycle ride competitions for them every summer period, this lures other passionate bicylcle riders to enlist our services and thus be members. 
+Still on luring them, we can organise bicycle ride competitions for them every summer period. This lures other passionate bicylcle riders to enlist our services and thus be members. 
 
