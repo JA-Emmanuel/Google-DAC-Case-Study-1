@@ -162,9 +162,10 @@ write.csv(ride_tripdatanew,"C:\\Users\\Public\\Documents\\Cyclistic.csv", row.na
 ```
 
 ## Data Visualization
-Below is a dashboard that perfectly viualizes our insights 
+Below is a dashboard that perfectly visualizes the data for which we can draw insights  
 
-![Jessica2-2](https://user-images.githubusercontent.com/105708682/172920030-0077d0c9-fea5-4be8-9bde-fbbbcc1e87fb.jpg)
+![Options-2](https://user-images.githubusercontent.com/105708682/173012975-3acd1bc8-ef49-4910-a48c-5273b8f2d562.jpg)
+
 
 ## Data Insights 
 
