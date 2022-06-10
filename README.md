@@ -164,7 +164,8 @@ write.csv(ride_tripdatanew,"C:\\Users\\Public\\Documents\\Cyclistic.csv", row.na
 ## Data Visualization
 Below is a dashboard that perfectly visualizes the data for which we can draw insights  
 
-![NEW DAY-2](https://user-images.githubusercontent.com/105708682/173016424-c2bfe700-b028-40cb-b667-a9c50cfcdb13.jpg)
+![0002](https://user-images.githubusercontent.com/105708682/173146170-136eda49-cf3a-405a-849a-8937e86b5326.jpg)
+
 
 
 
@@ -178,7 +179,7 @@ As earlier seen, although the casual dominates number of rides only over the wee
 
 ### Recommendations 
 
-A digital ad named "Passion Into Membership" should be launched where we convince the casual riders to switch to membership. How do we do this? For the members, its just a routine but for casaul it's something they are passionate about and hence we put out and ad that speaks of their passion, something they can relate to.  
+A digital ad named "Passion Into Members" should be launched where we convince the casual riders to switch to members. How do we do this? For the members, its just a routine but for casaul riders it's something they are passionate about and hence we put out an ad that speaks to their passion, something they can relate to.  
 
 We know of the decreasing number of rides during the winter, spring and autumn therefore we should provide for them a discount for their membership conversion, this shows how much we care and how much we know of the obsatcles they face in the form of weather.
 
